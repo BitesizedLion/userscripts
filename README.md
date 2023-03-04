@@ -39,4 +39,4 @@ Matches the following:
 
 ## License
 
-These userscripts are released under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use them however you like. If you make any improvements or additions to the scripts, I'd love to hear about them.
+These userscripts are released under the [GPLv3 License](./LICENSE). You are free to use, copy, distribute and modify the scripts as long as you follow the terms and conditions of the license. If you make any improvements or additions to the scripts, I would appreciate it if you shared your changes.
