@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Hacker News Post Filter
-// @namespace    http://tampermonkey.net/
-// @version      1
+// @namespace    https://github.com/BitesizedLion/userscripts
+// @version      1.0.1
 // @description  Filter out Hacker News posts containing certain words or phrases, with a toggle button.
 // @author       BitesizedLion
 // @match        https://news.ycombinator.com/new*
