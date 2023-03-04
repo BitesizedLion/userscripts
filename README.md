@@ -19,7 +19,7 @@ To use these userscripts, you'll need Tampermonkey installed in your browser. On
 
 ### Script 1: Hacker News Post Filter
 
-Filter out Hacker News posts containing certain words or phrases, has a toggle button in the bottom right.
+Filter out [Hacker News](https://news.ycombinator.com) posts containing certain words or phrases, has a toggle button in the bottom right.
 
 Matches the following:
 * `https://news.ycombinator.com/new*`
