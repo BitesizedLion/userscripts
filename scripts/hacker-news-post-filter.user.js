@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Hacker News Post Filter
 // @namespace    https://github.com/BitesizedLion/userscripts
-// @version      1.0.1
+// @version      1.0.2
 // @description  Filter out Hacker News posts containing certain words or phrases, with a toggle button.
 // @author       BitesizedLion
 // @match        https://news.ycombinator.com/new*
@@ -14,7 +14,7 @@
 // ==/UserScript==
 
 const blockedWords = ['ChatGPT', 'AI', 'GPT'];
-let showFiltered = false;
+var showFiltered = false;
 
 const button = document.createElement('button');
 button.textContent = 'Show Filtered Results';
@@ -52,9 +52,9 @@ function toggleFilteredResults() {
     }
   });
 
-  showFiltered = !showFiltered;
   button.textContent = showFiltered ? 'Hide Filtered Results' : 'Show Filtered Results';
   button.style.backgroundColor = showFiltered ? 'green' : 'red';
+  showFiltered = !showFiltered;
 }
 
 toggleFilteredResults();
