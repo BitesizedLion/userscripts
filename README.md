@@ -21,13 +21,15 @@ To use these userscripts, you'll need Tampermonkey installed in your browser. On
 
 Filter out [Hacker News](https://news.ycombinator.com) posts containing certain words or phrases, has a toggle button in the bottom right.
 
+![Preview of the HNPS Script](./assets/hnps-preview.gif)
+
 Matches the following:
 * `https://news.ycombinator.com/new*`
 * `https://news.ycombinator.com/threads*`
 * `https://news.ycombinator.com/front*`
 * `https://news.ycombinator.com/ask`
 * `https://news.ycombinator.com/show*`
-* `https://nwes.ycombinator.com/jobs`
+* `https://news.ycombinator.com/jobs`
 
 ### Script 2: [Insert Script Name Here]
 
