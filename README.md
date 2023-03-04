@@ -13,6 +13,8 @@ To use these userscripts, you'll need Tampermonkey installed in your browser. On
 3. Click on the "Raw" button to view the raw source code.
 4. Tampermonkey should prompt you to install the script. Click "Install" to complete the installation process.
 
+**NOTE**: Please be aware that these scripts do not have auto-update functionality. If any updates are made to a script, you will need to manually install the new version.
+
 ## Userscripts
 
 ### Script 1: Hacker News Post Filter
