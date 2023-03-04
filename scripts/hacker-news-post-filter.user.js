@@ -31,7 +31,6 @@ button.style.cssText = `
 document.body.appendChild(button);
 
 function toggleFilteredResults() {
-  //const showFiltered = button.textContent === 'Hide Filtered Results';
   const postRows = document.querySelectorAll('.athing');
 
   const blockedRegex = new RegExp(`\\b(${blockedWords.join('|')})\\b`, 'i'); // lol im sorry
