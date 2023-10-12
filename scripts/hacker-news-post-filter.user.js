@@ -1,15 +1,15 @@
 // ==UserScript==
 // @name         Hacker News Post Filter
 // @namespace    https://github.com/BitesizedLion/userscripts
-// @version      1.0.2
+// @version      1.0.3
 // @description  Filter out Hacker News posts containing certain words or phrases, with a toggle button.
 // @author       BitesizedLion
-// @match        https://news.ycombinator.com/new*
+// @match        https://news.ycombinator.com/news*
+// @match        https://news.ycombinator.com/newest*
 // @match        https://news.ycombinator.com/threads*
 // @match        https://news.ycombinator.com/front*
 // @match        https://news.ycombinator.com/ask
 // @match        https://news.ycombinator.com/show*
-// @match        https://nwes.ycombinator.com/jobs
 // @grant        none
 // ==/UserScript==
 
