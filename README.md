@@ -23,14 +23,6 @@ Filter out [Hacker News](https://news.ycombinator.com) posts containing certain 
 
 ![Preview of the HNPS Script](./assets/hnps-preview.gif)
 
-Matches the following:
-* `https://news.ycombinator.com/new*`
-* `https://news.ycombinator.com/threads*`
-* `https://news.ycombinator.com/front*`
-* `https://news.ycombinator.com/ask`
-* `https://news.ycombinator.com/show*`
-* `https://news.ycombinator.com/jobs`
-
 ### Script 2: [Insert Script Name Here]
 
 [Insert Script Description Here]
