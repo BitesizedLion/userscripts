@@ -23,9 +23,13 @@ Filter out [Hacker News](https://news.ycombinator.com) posts containing certain 
 
 ![Preview of the HNPS Script](./assets/hnps-preview.gif)
 
-### Script 2: [Insert Script Name Here]
+### Script 2: Dressmann department filter
 
-[Insert Script Description Here]
+This is a simple script that automatically applies the "Department" filter on Dressmann's site
+
+It sets it to "Dressmann", if you want "Dressmann XL" you have to change the code to be "Dressmann%20XL"
+
+![Preview of the Dressmann filter](./assets/dressmann-filter.png)
 
 ### Script 3: [Insert Script Name Here]
 
